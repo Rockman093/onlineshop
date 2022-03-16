@@ -139,4 +139,7 @@ a {
     .icon-elements a {
         margin:0 10px;   
     }
+    p,h2 {
+        font-size: 12px;
+    }
 }
