@@ -102,8 +102,7 @@ a {
      .icon-elements {
         padding:15px;
     } 
-    .menu-icon,
-    .menu-btn {
+    .menu-icon {
         display:block;
     }
     .navigation .menu li {
